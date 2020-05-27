@@ -4,7 +4,7 @@ import org.junit.jupiter.api.Test;
 
 public class VirtualPetShelterTest {
 
-    @Test
-    public void shouldBeAbleTo
+//    @Test
+//    public void shouldBeAbleTo
 
 }

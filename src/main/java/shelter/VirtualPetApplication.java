@@ -4,7 +4,8 @@ package shelter;
 import java.util.Collection;
 import java.util.Scanner;
 
-public class VirtualPetApplication {
+public class
+VirtualPetApplication {
     private static VirtualPetShelterApp shelter = new VirtualPetShelterApp();
     private static Scanner input = new Scanner(System.in);
 
